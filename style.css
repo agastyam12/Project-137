@@ -1,0 +1,27 @@
+body {
+    background-image: url("background.jpg");
+    background-size:cover;
+   
+}
+#heading{
+    width:fill;
+    background-color:rgb(0, 162, 255);
+    color:white;
+    margin-top:-0px;
+    padding-bottom:1px;
+}
+input{
+    width:50%;
+    border-radius:20px;
+}
+#object{
+    margin-top:5px;
+}
+#start{
+   margin-top:5px;
+}
+canvas {
+    border-radius:20px;
+    border-color:black;
+}
+
